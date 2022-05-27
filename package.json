@@ -1,0 +1,24 @@
+{
+  "name": "restaurants",
+  "version": "1.0.0",
+  "description": "retsaurant API with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KayAbdi/restaurantsGraphQL.git"
+  },
+  "author": "Kaynan Abdi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/KayAbdi/restaurantsGraphQL/issues"
+  },
+  "homepage": "https://github.com/KayAbdi/restaurantsGraphQL#readme"
+}
